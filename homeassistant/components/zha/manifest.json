@@ -6,6 +6,7 @@
   "requirements": [
     "bellows==0.21.0",
     "pyserial==3.4",
+    "pyusb>=1.1.0",
     "pyserial-asyncio==0.4",
     "zha-quirks==0.0.48",
     "zigpy-cc==0.5.2",
